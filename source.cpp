@@ -25,7 +25,7 @@ int main()
 		i++;
 	}
 	if (i == k)
-		cout << pq.top() << endl;
+		cout << pq.top() << " ";
 
 	while(i < vec.size())
 	{
